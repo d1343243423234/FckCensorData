@@ -35,7 +35,7 @@ while True:
         json.dump(data, f, indent=4)
         
     with open('README.md', 'a', encoding='utf-8') as f:
-        f.write(f'- [{track_name}](https://music.yandex.ru/track/{id})')
+        f.write(f'- [{track_name}](https://music.yandex.ru/track/{id})\n')
 
     repo.index.add(['list.json', 'tracks/', "README.md"])
     repo.index.commit(f"add track «{track_name}»")
