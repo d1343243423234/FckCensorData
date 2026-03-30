@@ -1,9 +1,5 @@
 # Поддерживаемые треки:
-- Я уёбываю в джаз - Кишлак
-- Самый лучший день - Кишлак
-- 96 слёз - zavet
 - вот она - zavet
-- оранжевая песня - zavet, Bouledvard Depo
 - Мама, я люблю - Anacondaz
 - [губы - тёмный принц](https://music.yandex.ru/track/139910364)
 - [madam - Kai Angel](https://music.yandex.ru/track/133951915)
