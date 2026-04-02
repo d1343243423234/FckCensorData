@@ -34,7 +34,7 @@ while True:
                         'format': 'bestaudio/best',
                         'outtmpl': f'tracks/{id}',
                     }
-                    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                    with yt_dlp.YoutubeDL(ydl_opts) as ydl: # type: ignore
                         ydl.download([url])
 
                 download_sound(url)
