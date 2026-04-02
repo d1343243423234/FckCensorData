@@ -7,3 +7,4 @@
 - [Самый лучший день - Кишлак](https://music.yandex.ru/track/102494056)
 - [Сумасшедшая - Lida, CMH, GSPD](https://music.yandex.ru/track/109996936)
 - [96 слёз - zavet](https://music.yandex.ru/track/76780018)
+- [Не ангел - Lizer](https://music.yandex.ru/track/113240879)
