@@ -22,17 +22,22 @@ while True:
     repo = Repo('.')
     should_download = True
     if (url):
-        should_download = input("Download track? (y/n): ").lower() == 'y'
-        if should_download:
-            def download_sound(url):
-                ydl_opts = {
-                    'format': 'bestaudio/best',
-                    'outtmpl': f'tracks/{id}',
-                }
-                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                    ydl.download([url])
+        if not url.startswith('http'):
+            import shutil
+            shutil.copy(url, f'tracks/{id}')
+            print(f'File copied to tracks/{id}')
+        else:
+            should_download = input("Download track? (y/n): ").lower() == 'y'
+            if should_download:
+                def download_sound(url):
+                    ydl_opts = {
+                        'format': 'bestaudio/best',
+                        'outtmpl': f'tracks/{id}',
+                    }
+                    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                        ydl.download([url])
 
-            download_sound(url)
+                download_sound(url)
 
     with open('list.json', 'r') as f:
         data = json.loads(f.read())
