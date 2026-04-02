@@ -16,3 +16,4 @@
 - [madam - Kai Angel](https://music.yandex.ru/track/133951915)
 - [LIPSTICK - Kai Angel, 9mice](https://music.yandex.ru/track/111402809)
 - [скидка - тёмный принц](https://music.yandex.ru/track/144622062)
+- [губы - тёмный принц](https://music.yandex.ru/track/139910364)
