@@ -14,3 +14,4 @@
 - [Крайне аккуратно - 4К](https://music.yandex.ru/track/63607797)
 - [Милиция - 4К](https://music.yandex.ru/track/63607788)
 - [madam - Kai Angel](https://music.yandex.ru/track/133951915)
+- [LIPSTICK - Kai Angel, 9mice](https://music.yandex.ru/track/111402809)
