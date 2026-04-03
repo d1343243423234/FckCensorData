@@ -24,3 +24,4 @@
 - [Лёха - ЗимойБезШапки](https://music.yandex.ru/track/115131527)
 - [Я е**л в рот - Паша Техник](https://music.yandex.ru/track/93401053)
 - [Девочка с каре - МУККА](https://music.yandex.ru/track/50400505)
+- [так по*** - madk1d](https://music.yandex.ru/track/137300017)
