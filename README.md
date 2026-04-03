@@ -27,3 +27,4 @@
 - [так по*** - madk1d](https://music.yandex.ru/track/137300017)
 - [ты че обиделась - madk1d, тёмный принц](https://music.yandex.ru/track/136901411)
 - [цена - madk1d, паранойя](https://music.yandex.ru/track/135266727)
+- [засосы - madk1d](https://music.yandex.ru/track/137300019)
