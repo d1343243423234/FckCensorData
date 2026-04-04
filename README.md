@@ -31,3 +31,4 @@
 - [Барыга - madk1d](https://music.yandex.ru/track/114382002)
 - [Гэнг бэнг - Lida](https://music.yandex.ru/track/60441406)
 - [Аспирин - Lida](https://music.yandex.ru/track/60441408)
+- [ALASKA PUFFER - паранойя](https://music.yandex.ru/track/133901297)
