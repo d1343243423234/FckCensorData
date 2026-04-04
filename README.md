@@ -35,3 +35,4 @@
 - [Кайфоград - Слава КПСС](https://music.yandex.ru/track/117219738)
 - [Блеск и нищета - Слава КПСС](https://music.yandex.ru/track/131794594)
 - [Вика любит ПЭПЭ - Ганвест](https://music.yandex.ru/track/146068411)
+- [Fake ID - kizaru, ICEGERGERT](https://music.yandex.ru/track/138207906)
