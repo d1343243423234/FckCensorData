@@ -37,3 +37,4 @@
 - [Вика любит ПЭПЭ - Ганвест](https://music.yandex.ru/track/146068411)
 - [Fake ID - kizaru, ICEGERGERT](https://music.yandex.ru/track/138207906)
 - [ты любишь танцевать - CUPSIZE](https://music.yandex.ru/track/117711801)
+- [Вирус - CUPSIZE](https://music.yandex.ru/track/110945089)
