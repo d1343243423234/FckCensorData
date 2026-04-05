@@ -50,3 +50,4 @@
 - [Театр теней - Три дня дождя](https://music.yandex.ru/track/83950837)
 - [Порнозвезда - PHARAOH, ЛСП](https://music.yandex.ru/track/61007010)
 - [Вина - MAYOT, OG Buda, 17 SEVENTEEN](https://music.yandex.ru/track/97325479)
+- [Ууу - ЛСП](https://music.yandex.ru/track/70975548)
