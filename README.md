@@ -56,3 +56,4 @@
 - [Кошмар - Big Russian Boss](https://music.yandex.ru/track/34468568)
 - [Цветами радуги - pyrokinesis](https://music.yandex.ru/track/55103258)
 - [Сакура - 163ONMYNECK](https://music.yandex.ru/track/116649698)
+- [Smells Like Refugee Spirit - Boulevard Depo](https://music.yandex.ru/track/45439388)
