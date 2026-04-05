@@ -58,3 +58,4 @@
 - [Сакура - 163ONMYNECK](https://music.yandex.ru/track/116649698)
 - [Smells Like Refugee Spirit - Boulevard Depo](https://music.yandex.ru/track/45439388)
 - [Бассок - Платина, Voskresenskii](https://music.yandex.ru/track/148716093)
+- [Таблетка - PLOHOYPAREN](https://music.yandex.ru/track/148825093)
