@@ -91,3 +91,4 @@
 - [cyberpunk (prod. by musiculll) - plagueinside, KseroN](https://music.yandex.ru/track/66501221)
 - [В лесу - Убийцы](https://music.yandex.ru/track/105579529)
 - [Лимита - шумные и угрожающие выходки](https://music.yandex.ru/track/57020069)
+- [триада - fleurnothappy, euro91, woosubi](https://music.yandex.ru/track/134223771)
