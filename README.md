@@ -99,3 +99,4 @@
 - [Kash Routine - uglystephan, Шайни](https://music.yandex.ru/track/75425467)
 - [Романтично - uglystephan](https://music.yandex.ru/track/110263534)
 - [Мэрилин Мэнсон - uglystephan](https://music.yandex.ru/track/110263532)
+- [Хэллоу Китти - uglystephan](https://music.yandex.ru/track/108809115)
