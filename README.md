@@ -126,3 +126,4 @@
 - [КПСП - Gruppa Skryptonite](https://music.yandex.ru/track/67349423)
 - [КАЗАНТИП - SODA LUV, SQWOZ BAB](https://music.yandex.ru/track/81549433)
 - [Родина - Слава КПСС, Metox](https://music.yandex.ru/track/133429871)
+- [Солевые против наркотиков - DJ ПЕРЕКРЫТ](https://music.yandex.ru/track/62567305)
