@@ -92,3 +92,4 @@
 - [В лесу - Убийцы](https://music.yandex.ru/track/105579529)
 - [Лимита - шумные и угрожающие выходки](https://music.yandex.ru/track/57020069)
 - [триада - fleurnothappy, euro91, woosubi](https://music.yandex.ru/track/134223771)
+- [ДВА ВАРИАНТА - BOOKER, Золотое Перо](https://music.yandex.ru/track/133378523)
