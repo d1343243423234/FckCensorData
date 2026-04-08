@@ -128,3 +128,4 @@
 - [Родина - Слава КПСС, Metox](https://music.yandex.ru/track/133429871)
 - [Солевые против наркотиков - DJ ПЕРЕКРЫТ](https://music.yandex.ru/track/62567305)
 - [МУСОРА - Джарахов, SQWOZ BAB, Красное Дерево](https://music.yandex.ru/track/109070388)
+- [GUAP - SQWOZ BAB, РОЛАН](https://music.yandex.ru/track/65875047)
