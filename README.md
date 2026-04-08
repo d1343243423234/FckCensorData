@@ -95,3 +95,4 @@
 - [ДВА ВАРИАНТА - BOOKER, Золотое Перо](https://music.yandex.ru/track/133378523)
 - [Дым - Лёша Свик](https://music.yandex.ru/track/39949113)
 - [Блёвбургер - Kunteynir](https://music.yandex.ru/track/36142272)
+- [Плохая Сука - GONE.Fludd](https://music.yandex.ru/track/84382255)
