@@ -94,3 +94,4 @@
 - [триада - fleurnothappy, euro91, woosubi](https://music.yandex.ru/track/134223771)
 - [ДВА ВАРИАНТА - BOOKER, Золотое Перо](https://music.yandex.ru/track/133378523)
 - [Дым - Лёша Свик](https://music.yandex.ru/track/39949113)
+- [Блёвбургер - Kunteynir](https://music.yandex.ru/track/36142272)
