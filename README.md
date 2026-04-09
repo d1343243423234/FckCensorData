@@ -142,3 +142,4 @@
 - [Ультрамариновые танцы - Элджей](https://music.yandex.ru/track/36327441)
 - [ТЫ КРУЧЕ, ЧЕМ... - GAYAZOV$ BROTHER$](https://music.yandex.ru/track/70743630)
 - [Ультрафиолетовая лампа - Элджей](https://music.yandex.ru/track/35758334)
+- [Интеллигент - Xassa](https://music.yandex.ru/track/118456194)
