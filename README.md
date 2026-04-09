@@ -130,3 +130,4 @@
 - [МУСОРА - Джарахов, SQWOZ BAB, Красное Дерево](https://music.yandex.ru/track/109070388)
 - [GUAP - SQWOZ BAB, РОЛАН](https://music.yandex.ru/track/65875047)
 - [тгк - morphy](https://music.yandex.ru/track/139979379)
+- [привычки - morphy](https://music.yandex.ru/track/111248482)
