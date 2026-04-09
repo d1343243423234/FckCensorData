@@ -146,3 +146,4 @@
 - [Nicotine - CUPREOUS](https://music.yandex.ru/track/106941620)
 - [dry lips freestyle - 9mice](https://music.yandex.ru/track/144098514)
 - [your love - 9mice](https://music.yandex.ru/track/125996700)
+- [Монетка - СД, ЛСП, BOOKER, Вири Альди](https://music.yandex.ru/track/37120836)
