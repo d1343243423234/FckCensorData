@@ -166,3 +166,4 @@
 - [Хата - Yanix, ATL](https://music.yandex.ru/track/30212997)
 - [Улитка - DooMee, MAYOT](https://music.yandex.ru/track/146451124)
 - [ХОТБОКС - SODA LUV](https://music.yandex.ru/track/72063039)
+- [Я хочу быть Д - Lida, ЛСП](https://music.yandex.ru/track/76711329)
