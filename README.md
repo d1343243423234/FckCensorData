@@ -151,3 +151,4 @@
 - [GOING CRAZY - NEWLIGHTCHILD](https://music.yandex.ru/track/120168430)
 - [100% - FORTUNA 812](https://music.yandex.ru/track/136101923)
 - [Vivienne - FORTUNA 812](https://music.yandex.ru/track/131737642)
+- [Night Club - FORTUNA 812, silver gloria](https://music.yandex.ru/track/136101919)
