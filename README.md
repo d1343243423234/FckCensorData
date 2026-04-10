@@ -169,3 +169,4 @@
 - [Я хочу быть Д - Lida, ЛСП](https://music.yandex.ru/track/76711329)
 - [Для никого - Агата Кристи](https://music.yandex.ru/track/24442537)
 - [Моряк - Агата Кристи](https://music.yandex.ru/track/24442524)
+- [Я полюбил эскортниц - ЗАВТРА БРОШУ](https://music.yandex.ru/track/42486164)
