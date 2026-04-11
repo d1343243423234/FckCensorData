@@ -209,3 +209,4 @@
 - [Фаргус - шумные и угрожающие выходки](https://music.yandex.ru/track/106475674)
 - [Jump! - Lida](https://music.yandex.ru/track/90841991)
 - [Матовый - 4К](https://music.yandex.ru/track/63607794)
+- [К солнцу - Kunteynir, sptsh, Труман](https://music.yandex.ru/track/36161917)
