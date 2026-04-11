@@ -194,3 +194,4 @@
 - [ЧП - Баста, GUF](https://music.yandex.ru/track/48591491)
 - [RUSSKY RAP - BOOKER, STED.D](https://music.yandex.ru/track/127293321)
 - [Benzo - Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks](https://music.yandex.ru/track/107970520)
+- [Русская боль - Sellout](https://music.yandex.ru/track/80408120)
