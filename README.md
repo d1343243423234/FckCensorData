@@ -219,3 +219,4 @@
 - [ТЫ ВКЛЮЧАЕШЬ МОЛЛИ - ЗАВТРА БРОШУ](https://music.yandex.ru/track/43854383)
 - [таб***ки - голодный](https://music.yandex.ru/track/137472446)
 - [Магия - 84, LOOKBUFFALO](https://music.yandex.ru/track/119872141)
+- [таблетки - диссоциативное расстройство](https://music.yandex.ru/track/123169165)
