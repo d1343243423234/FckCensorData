@@ -217,3 +217,4 @@
 - [heaven - Psychosis, weeklyn](https://music.yandex.ru/track/138912048)
 - [deGenerationP - pyrokinesis](https://music.yandex.ru/track/41900810)
 - [ТЫ ВКЛЮЧАЕШЬ МОЛЛИ - ЗАВТРА БРОШУ](https://music.yandex.ru/track/43854383)
+- [таб***ки - голодный](https://music.yandex.ru/track/137472446)
