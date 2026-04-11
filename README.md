@@ -215,3 +215,4 @@
 - [ПАЦАНЫ - GONE.Fludd](https://music.yandex.ru/track/66668867)
 - [Препараты - Саша Скул, Metox, Трувонт, Игла](https://music.yandex.ru/track/111454944)
 - [heaven - Psychosis, weeklyn](https://music.yandex.ru/track/138912048)
+- [deGenerationP - pyrokinesis](https://music.yandex.ru/track/41900810)
