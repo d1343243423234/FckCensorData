@@ -249,3 +249,4 @@
 - [PUFF - ЕГОР КРИД, MAYOT](https://music.yandex.ru/track/87117636)
 - [Мама прости - гречка](https://music.yandex.ru/track/38572740)
 - [CAIRN II - STED.D](https://music.yandex.ru/track/36893518)
+- [Курить и сдохнуть - Слава КПСС](https://music.yandex.ru/track/117219737)
