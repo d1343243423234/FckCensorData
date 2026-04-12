@@ -256,3 +256,4 @@
 - [Бойсбэнд - PHARAOH, Ca$$xttx](https://music.yandex.ru/track/29508050)
 - [Бентли - PHARAOH](https://music.yandex.ru/track/149220758)
 - [Лаллипап - PHARAOH](https://music.yandex.ru/track/36063268)
+- [Unplugged 2: Love Kills - PHARAOH, White Punk](https://music.yandex.ru/track/36562968)
