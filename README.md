@@ -245,3 +245,4 @@
 - [Бриллианты - ЛСП](https://music.yandex.ru/track/131788963)
 - [Воссап - OG Buda, Платина](https://music.yandex.ru/track/81936403)
 - [Как есть - Баста, GUF](https://music.yandex.ru/track/48591482)
+- [Crush - Yanix, PINQ, Thomas Mraz](https://music.yandex.ru/track/106713245)
