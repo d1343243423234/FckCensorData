@@ -263,3 +263,4 @@
 - [Дерьмо - unki](https://music.yandex.ru/track/115424575)
 - [30МИН - OG Buda, Платина](https://music.yandex.ru/track/119280171)
 - [Иней! - Платина](https://music.yandex.ru/track/148716938)
+- [Панки хой, Горшок живой - Lida, Слава КПСС](https://music.yandex.ru/track/76711327)
