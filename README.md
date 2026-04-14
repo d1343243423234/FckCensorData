@@ -269,3 +269,4 @@
 - [Дико, например - PHARAOH](https://music.yandex.ru/track/35476145)
 - [Другой стиль - 163ONMYNECK](https://music.yandex.ru/track/116649704)
 - [SPLASH - dabbackwood](https://music.yandex.ru/track/132344550)
+- [ШИПЫ - CMH, madk1d](https://music.yandex.ru/track/135256919)
