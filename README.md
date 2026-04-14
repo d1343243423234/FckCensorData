@@ -266,3 +266,4 @@
 - [Панки хой, Горшок живой - Lida, Слава КПСС](https://music.yandex.ru/track/76711327)
 - [Сваровски - Heronwater](https://music.yandex.ru/track/132720741)
 - [Зависим - Heronwater](https://music.yandex.ru/track/117370317)
+- [Дико, например - PHARAOH](https://music.yandex.ru/track/35476145)
