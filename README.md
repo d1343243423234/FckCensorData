@@ -273,3 +273,4 @@
 - [я прикол - aikko, Грязь](https://music.yandex.ru/track/142825481)
 - [Bye Bye Kitty - playingtheangel](https://music.yandex.ru/track/58212468)
 - [Генерейшн - BOOKER](https://music.yandex.ru/track/118111192)
+- [Пьяный Dj - Markul](https://music.yandex.ru/track/38180454)
