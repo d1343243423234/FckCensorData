@@ -276,3 +276,4 @@
 - [Пьяный Dj - Markul](https://music.yandex.ru/track/38180454)
 - [ОСТАВЬ - STED.D](https://music.yandex.ru/track/73939476)
 - [Они все такие вау - рэйчи, madk1d](https://music.yandex.ru/track/110313505)
+- [ПОЙДЕТ - MORGENSHTERN](https://music.yandex.ru/track/113871254)
