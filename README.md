@@ -275,3 +275,4 @@
 - [Генерейшн - BOOKER](https://music.yandex.ru/track/118111192)
 - [Пьяный Dj - Markul](https://music.yandex.ru/track/38180454)
 - [ОСТАВЬ - STED.D](https://music.yandex.ru/track/73939476)
+- [Они все такие вау - рэйчи, madk1d](https://music.yandex.ru/track/110313505)
