@@ -293,3 +293,4 @@
 - [Trap Luv - Big Baby Tape](https://music.yandex.ru/track/59523137)
 - [Doggystyle - YUNG TRAPPA, ЛСП](https://music.yandex.ru/track/53582341)
 - [Компас - CAKEBOY](https://music.yandex.ru/track/108977147)
+- [подиум - паранойя, королевский XVII, tewiq](https://music.yandex.ru/track/127455122)
