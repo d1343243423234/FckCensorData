@@ -289,3 +289,4 @@
 - [KENNY - unki](https://music.yandex.ru/track/126043434)
 - [Холодные Ребра - GONE.Fludd](https://music.yandex.ru/track/38563412)
 - [прости - whyspurky, mapt0v](https://music.yandex.ru/track/135681115)
+- [Все хотят меня поцеловать - Пошлая Молли](https://music.yandex.ru/track/38931996)
