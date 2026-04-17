@@ -306,3 +306,4 @@
 - [Кома - whitek3d](https://music.yandex.ru/track/136904439)
 - [freddy krueger - Kai Angel](https://music.yandex.ru/track/143244429)
 - [*** TRIVIAL - Kai Angel, 9mice](https://music.yandex.ru/track/108284700)
+- [So Good - 9mice, Kai Angel](https://music.yandex.ru/track/130919938)
