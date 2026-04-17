@@ -285,3 +285,4 @@
 - [Утро - Lida](https://music.yandex.ru/track/109996934)
 - [Танцуют бабы в клубе - Ганвест](https://music.yandex.ru/track/147603436)
 - [Я устал - 1.Kla$](https://music.yandex.ru/track/51039981)
+- [Лошадка - Найк Борзов](https://music.yandex.ru/track/32988400)
