@@ -305,3 +305,4 @@
 - [Банановый сок - GONE.Fludd](https://music.yandex.ru/track/43528291)
 - [Кома - whitek3d](https://music.yandex.ru/track/136904439)
 - [freddy krueger - Kai Angel](https://music.yandex.ru/track/143244429)
+- [*** TRIVIAL - Kai Angel, 9mice](https://music.yandex.ru/track/108284700)
