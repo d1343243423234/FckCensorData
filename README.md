@@ -292,3 +292,4 @@
 - [Все хотят меня поцеловать - Пошлая Молли](https://music.yandex.ru/track/38931996)
 - [Trap Luv - Big Baby Tape](https://music.yandex.ru/track/59523137)
 - [Doggystyle - YUNG TRAPPA, ЛСП](https://music.yandex.ru/track/53582341)
+- [Компас - CAKEBOY](https://music.yandex.ru/track/108977147)
