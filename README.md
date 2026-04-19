@@ -321,3 +321,4 @@
 - [Серотонин в трёхлитровых банках - Hawaiian Sadness, pyrokinesis](https://music.yandex.ru/track/41468696)
 - [Стенки моего подъезда - CUPSIZE](https://music.yandex.ru/track/120305626)
 - [JAKE PAUL - MAYOT](https://music.yandex.ru/track/110023304)
+- [Оппонент не вывез - MAYOT](https://music.yandex.ru/track/110023306)
