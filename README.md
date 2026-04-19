@@ -342,3 +342,4 @@
 - [sexyswag2010 - madk1d](https://music.yandex.ru/track/137300020)
 - [Сделал себя сам (speed up) - mapt0v](https://music.yandex.ru/track/146446628)
 - [Caramel - PHARAOH](https://music.yandex.ru/track/38149234)
+- [Белочка - KSB muzic](https://music.yandex.ru/track/134260209)
