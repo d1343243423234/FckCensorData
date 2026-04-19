@@ -340,3 +340,4 @@
 - [famous - 9mice](https://music.yandex.ru/track/144098512)
 - [SAVE DAT - Toxi$, ЕГОР КРИД](https://music.yandex.ru/track/123874951)
 - [sexyswag2010 - madk1d](https://music.yandex.ru/track/137300020)
+- [Сделал себя сам (speed up) - mapt0v](https://music.yandex.ru/track/146446628)
