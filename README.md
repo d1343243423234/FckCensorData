@@ -328,3 +328,4 @@
 - [IGRA (OUTRO) - MAYOT, SEEMEE](https://music.yandex.ru/track/105382858)
 - [ГЕНЕРАЛ ТАЙЛАНДА - MAYOT, SEEMEE](https://music.yandex.ru/track/105382841)
 - [PROJECT X - Heronwater](https://music.yandex.ru/track/106018754)
+- [ГЕРМАФРОДИТ [Prod. by gob wants nothing, Wex] - SODA LUV, Scally Milano](https://music.yandex.ru/track/80159693)
