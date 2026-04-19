@@ -325,3 +325,4 @@
 - [ТГК - OG Buda](https://music.yandex.ru/track/104242342)
 - [ШВАБРА - MAYOT, SEEMEE](https://music.yandex.ru/track/105382847)
 - [ЭЭЭБЛЯ - MAYOT, SEEMEE](https://music.yandex.ru/track/105382856)
+- [IGRA (OUTRO) - MAYOT, SEEMEE](https://music.yandex.ru/track/105382858)
