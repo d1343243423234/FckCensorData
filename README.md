@@ -311,3 +311,4 @@
 - [ANGEL MAY CRY - Kai Angel](https://music.yandex.ru/track/115308816)
 - [Frank Ocean - 9mice, Kai Angel](https://music.yandex.ru/track/130919941)
 - [metallica - Kai Angel](https://music.yandex.ru/track/138413377)
+- [Трэпим Утром - GORILLA GLU, LIL NAKU](https://music.yandex.ru/track/143576327)
