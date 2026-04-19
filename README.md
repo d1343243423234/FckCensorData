@@ -323,3 +323,4 @@
 - [JAKE PAUL - MAYOT](https://music.yandex.ru/track/110023304)
 - [Оппонент не вывез - MAYOT](https://music.yandex.ru/track/110023306)
 - [ТГК - OG Buda](https://music.yandex.ru/track/104242342)
+- [ШВАБРА - MAYOT, SEEMEE](https://music.yandex.ru/track/105382847)
