@@ -316,3 +316,4 @@
 - [Сделал себя сам - mapt0v](https://music.yandex.ru/track/146446626)
 - [Кругом тонирован - АК-47](https://music.yandex.ru/track/48592086)
 - [НА ПЕРВОМ СВИДАНИИ - Heronwater](https://music.yandex.ru/track/145536346)
+- [У МЕНЯ НЕ ВСТАЛ - MORGENSHTERN](https://music.yandex.ru/track/83836715)
